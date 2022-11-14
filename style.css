@@ -1,24 +1,25 @@
 body {
-    background-color: white;
+    background-color: bisque;
 }
-.first_section {
-    color: green;
-    font: 14px;
-    padding: 20px;
+#unordered_list {
+
+    background-color: blueviolet;
+    border: 5px solid black;
+    padding: 10px;
     margin: 5px;
-    border: 1px solid black;
 }
-.second_section {
-    color: red;
-    font: 14px;
-    padding: 20px;
-    margin: 5px;
-    border: 1px solid black;
+.sub_unordered {
+
+    color: white;
 }
-.third_section {
-    color: blue;
-    font: 14px;
-    padding: 20px;
+#ordered_list {
+
+    background-color:cadetblue;
+    border: 5px dashed black;
+    padding: 10px;
     margin: 5px;
-    border: 1px solid black;
+}
+.sub_ordered {
+
+    color: white;
 }
